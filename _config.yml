@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Chauby
-organization: UESTC
-organization_url: http://www.uestc.edu.cn
-github_username: Chauby
-location: Chengdu, China
-email: chaubyZou@163.com
+author: Gray
+organization: TJU
+organization_url: http://www.tju.edu.cn/
+github_username: Gray
+location: Tianjin, China
+email: 597500571@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -28,15 +28,15 @@ email: chaubyZou@163.com
 navs:
   -
     href: /
-    label: Homepage
+    label: 主页
 
   -
-    href: /cv/
-    label: CV
+    href: /bci/
+    label: BCI
 
   -
-    href: /publications/
-    label: Publications
+    href: /java/
+    label: JAVA学习记录
 
   -
     href: /categories/
